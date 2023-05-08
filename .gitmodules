@@ -1,0 +1,3 @@
+[submodule "neppe"]
+	path = neppe
+	url = https://github.com/neppe/neppe
